@@ -35,6 +35,15 @@ An online marketplace simulation for second-hand clothes, built as part of my YH
 **Tools:** IntelliJ, VS Code, Postman, Git, GitHub  
 🔗 [Frontend](https://github.com/Ilhamfeysel/StilGalleriet) • [Backend](https://github.com/gholamimohsen/StilGalleriet)
 
+### 🔹 Klarr 2.0 – School Management Platform  
+A fullstack web platform designed to support school and classroom management. Developed as part of a team project, the system enables user authentication, course management, and role-based access for students, teachers, and admins.
+
+**Backend Tech:** Node.js, Express.js, MongoDB, Mongoose, JWT, Docker  
+**Frontend Tech:** Next.js, React, Docker
+**Key Features:** Secure login, student dashboard, teacher tools, responsive design  
+**Tools:** Git, GitHub, Postman, VS Code, Docker  
+🔗 [Frontend](https://github.com/Klarrpunktse/klarr2.0-client) • [Backend](https://github.com/Klarrpunktse/klarr2.0-server)
+
 
 ## 📫 Contact
 
