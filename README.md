@@ -19,12 +19,13 @@ I recently completed a YH (Higher Vocational Education) in Java Development, whe
 
 Here are some of the projects I’ve worked on during my studies and personal learning:
 
-## 🔹 [Health Care Appointment App BackEnd](https://github.com/Ilhamfeysel/Healthcare-BackEnd)
-## 🔹 [Health Care Appointment App FrontEnd](https://github.com/Ilhamfeysel/Healthcare-FrontEnd)
+### 🔹 Health Care Appointment App  
 
 A fullstack web application built as part of a group project during my YH Java Developer education.  
 The system enables patients to book, cancel, and manage appointments, while healthcare providers can manage availability and schedules.  
 Includes user authentication, role-based dashboards (admin, patient, doctor), and secure data handling.
+
+🔗 [Frontend](https://github.com/Ilhamfeysel/Healthcare-FrontEnd) • [Backend](https://github.com/Ilhamfeysel/Healthcare-BackEnd)
 
 
 ## 📫 Contact
