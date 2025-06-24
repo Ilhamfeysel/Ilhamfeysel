@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Ilham
 
-<!--
-**Ilhamfeysel/Ilhamfeysel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer with a passion for building scalable web applications using modern technologies.  
+I recently completed a YH (Higher Vocational Education) in Java Development, where I gained hands-on experience in both frontend and backend development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**  
+- ☕ Java, TypeScript, JavaScript  
+- 🧱 Spring Boot, React, Next.js, Node.js  
+- 🖥️ HTML, CSS  
+
+**Tools & Platforms**  
+- 🔧 Git, GitHub, Postman  
+- 🐳 Basic knowledge of Docker  
+- 🧪 Testing: JUnit (Java), basic React Testing
+
+## 🚀 Projects
+
+Here are some of the projects I’ve worked on during my studies and personal learning:
+
+## 📫 Contact
+
+- 📧 Email: Ilhamfeysel@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/ilhamfeysel 
+- 💻 GitHub: https://github.com/Ilhamfeysel
+
