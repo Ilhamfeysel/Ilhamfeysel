@@ -27,6 +27,14 @@ Includes user authentication, role-based dashboards (admin, patient, doctor), an
 
 🔗 [Frontend](https://github.com/Ilhamfeysel/Healthcare-FrontEnd) • [Backend](https://github.com/Ilhamfeysel/Healthcare-BackEnd)
 
+### 🔹 StilGalleriet  
+An online marketplace simulation for second-hand clothes, built as part of my YH education. Features include user accounts, ads, orders, reviews, and authentication.
+ 
+**Backend Tech:** Java 17, Spring Boot, MongoDB, Spring Security, Maven  
+**Frontend Tech:** React, Vite, JavaScript, HTML/CSS, Axios, React Router, Bootstrap, React Bootstrap, Font Awesome  
+**Tools:** IntelliJ, VS Code, Postman, Git, GitHub  
+🔗 [Frontend](https://github.com/Ilhamfeysel/StilGalleriet) • [Backend](https://github.com/gholamimohsen/StilGalleriet)
+
 
 ## 📫 Contact
 
