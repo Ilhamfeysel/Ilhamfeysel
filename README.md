@@ -40,6 +40,7 @@ A fullstack web platform designed to support school and classroom management. De
 
 **Backend Tech:** Node.js, Express.js, MongoDB, Mongoose, JWT, Docker  
 **Frontend Tech:** Next.js, React, Docker
+
 **Key Features:** Secure login, student dashboard, teacher tools, responsive design  
 **Tools:** Git, GitHub, Postman, VS Code, Docker  
 🔗 [Frontend](https://github.com/Klarrpunktse/klarr2.0-client) • [Backend](https://github.com/Klarrpunktse/klarr2.0-server)
